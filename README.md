@@ -1,7 +1,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Maha+Haj+Meftah+%F0%9F%91%8B;Passionate+Data+Scientist;" alt="Headline" />
   </div>
-<h3 align="center">Fresh Grauate in Computer an Automation  Engineering , interseted in Data Science, Machine Learning, Deep Learning and Gen AI .</h3>
+<h3 align="center">Fresh Graduate in Computer and Automation  Engineering, interested in Data Science, Machine Learning, Deep Learning and Gen AI .</h3>
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
